@@ -59,5 +59,15 @@ namespace TTN_06_QUANLYBANHANG.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tien_hac_am_2_maleficent_mistress_of_evil_c13_15707784268339 {
+            get {
+                object obj = ResourceManager.GetObject("tien-hac-am-2-maleficent-mistress-of-evil-c13-15707784268339", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
